@@ -1,2 +1,2 @@
 # apidocs
-API Usage
+API Usage of Tathya APIs
